@@ -1,0 +1,23 @@
+.container {
+	max-width: 600px;
+	margin: auto;
+	text-align: center;
+	padding: 0 20px;
+}
+
+#restaurant {
+	font-size: 20px;
+	margin: 20px 0;
+}
+
+#plates {
+	margin: 20px 0;
+}
+
+#drinks {
+	margin: 20px 0;
+}
+
+#ingredents {
+	margin: 20px 0;
+}
